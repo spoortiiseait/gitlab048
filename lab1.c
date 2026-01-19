@@ -1,5 +1,5 @@
 main()
 {
-	printf("I am spoorti");
+	printf("I am spoorti ms");
 	scanf();
 }
